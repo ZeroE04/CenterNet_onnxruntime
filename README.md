@@ -33,4 +33,4 @@ make install predict
 ./predict your_model_path//your_model.onnx your_img_path//your_img.jpg
 ```
 [注]
-样例资源暂时未上传，急需可以先邮件我。
+样例资源太大了，网速原因暂时没传，过段时间传，急需可以邮件我。
