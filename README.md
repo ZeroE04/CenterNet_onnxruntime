@@ -26,6 +26,7 @@ mkdir build && cd build
 cmake ..
 make install predict
 ```
+编译成功会在build目录下生成predict文件
 
 4. 开始推理
 ``` Bash
