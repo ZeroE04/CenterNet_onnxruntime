@@ -16,3 +16,5 @@ python -m onnxsim model//r_dla_34.onnx model//r_dla_34-sim.onnx
 python remove_initializer_from_input.py --input model//r_dla_34-sim.onnx --out model//r_dla_34-trim.onnx
 ```	
 
+[注]
+样例模型在[**some_resource**](https://github.com/ZeroE04/some_resource/tree/main/R-CenterNet_onnxruntime/pth2onnx/model)处下载
