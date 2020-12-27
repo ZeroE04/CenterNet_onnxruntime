@@ -33,5 +33,4 @@ make install predict
 ./predict your_model_path//your_model.onnx your_img_path//your_img.jpg
 ```
 [注]
-样例资源在[**some_resource**](https://github.com/ZeroE04/some_resource/tree/main/R-CenterNet_onnxruntime)处下载
-
+样例资源暂时未上传，急需可以先邮件我。
