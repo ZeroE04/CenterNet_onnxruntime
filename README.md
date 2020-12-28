@@ -1,8 +1,5 @@
-# R-CenterNet_onnxruntime
-R-CenterNet's inference.(C++)
+# CenterNet_onnxruntime(C++ inference)
 
-
-# 说明
 1. 确保cuda10、cudnn7、opencv已经安装了
 ```Bash
 #查看cuda版本
