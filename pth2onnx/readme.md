@@ -1,4 +1,4 @@
-# 说明
+# 说明(解压pth2onnx.7z)
 1. 将你通过[R-Centernet](https://github.com/ZeroE04/R-CenterNet)训练出来的模型放到model文件夹，然后在按照以下顺序运行，生成C++调用模型。
 2. 注意，修改pth2onnx.py内的模型文件名为你的模型。
 3. r_dla_34-trim.onnx就是最终C++调用模型，这里是单类检测，如果你是多类，对应的你要修改dlanet.py内输出hm。
